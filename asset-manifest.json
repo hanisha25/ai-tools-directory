@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-tools-directory/static/css/main.47c1ec1c.css",
+    "main.js": "/ai-tools-directory/static/js/main.7f9fbbbc.js",
+    "static/js/453.8f60e737.chunk.js": "/ai-tools-directory/static/js/453.8f60e737.chunk.js",
+    "index.html": "/ai-tools-directory/index.html",
+    "main.47c1ec1c.css.map": "/ai-tools-directory/static/css/main.47c1ec1c.css.map",
+    "main.7f9fbbbc.js.map": "/ai-tools-directory/static/js/main.7f9fbbbc.js.map",
+    "453.8f60e737.chunk.js.map": "/ai-tools-directory/static/js/453.8f60e737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c1ec1c.css",
+    "static/js/main.7f9fbbbc.js"
+  ]
+}
